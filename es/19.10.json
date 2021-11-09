@@ -4,6 +4,8 @@
       "name": "Mecánica",
       "sections": [
         {
+          "continent": "Europe",
+          "country": "French",
           "capital": "Париж",
           "bool": "cierto"
         },
