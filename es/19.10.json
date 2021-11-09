@@ -1,0 +1,42 @@
+{
+  "earth": [
+    {
+      "name": "Mecánica",
+      "sections": [
+        {
+          "capital": "Париж",
+          "bool": "cierto"
+        },
+        {
+          "continent": "Азия",
+          "country": "Китай",
+          "capital": "Пекин",
+          "bool": "falso"
+        },
+        {
+          "continent": "Африка",
+          "country": "ЮАР",
+          "capital": "Кейптаун"
+        }
+      ]
+    },
+    {
+      "continent": "Америка",
+      "sections": [
+        {
+          "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0"
+        }
+      ]
+    },
+    {
+      "name": "Electricidad",
+      "sections": [
+        {
+          "continent": "Южная Америка",
+          "country": "Бразилия",
+          "capital": "Бразилиа"
+        }
+      ]
+    }
+  ]
+}
